@@ -1,3 +1,0 @@
-# Intrvwproblem
-
-Jobspire 
